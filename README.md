@@ -2,7 +2,7 @@
 
 **Instructor:** Vivien Conti
 
-## Warmups
+### Warmups
 
 | Notebook | Topic | Open in Colab |
 |----------|-------|---------------|
@@ -12,7 +12,7 @@
 | TP3 | Image Segmentation with U-Net | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/warmups/tp3_sementation.ipynb) |
 | TP4 (bonus) | Generative Models - Face Generation with DCGAN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/warmups/tp4_generation.ipynb) |
 
-## Projects
+### Projects
 
 | Notebook | Topic | Open in Colab |
 |----------|-------|---------------|
