@@ -20,3 +20,6 @@
 | Project 2 | Segmentation d'images pour la distinction entre eaux côtières et eaux du large (MODIS/Aqua) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/projects/project2_coastal_water_segmentation.ipynb) |
 | Project 3 | Effet des aérosols sur l'albédo à partir de données CERES et MODIS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/projects/project3_aerosol_albedo_ceres.ipynb) |
 | Project 4 | Classification d'images visibles RGB de surfaces continentales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/projects/project4_rgb_land_classification.ipynb) |
+| Project 5 | Super Resolution ssh | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sorbonnescai/2026_bootcamp_spatial/blob/main/projects/project5_ocean_ssh_superResolution.ipynb) |
+
+
